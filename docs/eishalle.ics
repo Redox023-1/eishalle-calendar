@@ -652,22 +652,11 @@ DESCRIPTION:Publikumslauf. Aktuelle Infos und Preise: https://www.augsburg.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:20261122-0900@eishalle-haunstetten
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261122T090000
-DTEND;TZID=Europe/Berlin:20261122T110000
-SUMMARY:Publikumslauf Eishalle
-LOCATION:Eishalle Haunstetten\, Sportplatzstraße 2\, 86179 Augsburg
-DESCRIPTION:Publikumslauf. Aktuelle Infos und Preise: https://www.augsburg.
- de/freizeit/sport/wintersport/eishalle-haunstetten
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:20261122-1600@eishalle-haunstetten
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261122T160000
 DTEND;TZID=Europe/Berlin:20261122T180000
-SUMMARY:Publikumslauf Eishalle
+SUMMARY:Publikumslauf Eishalle (geänderte Zeit)
 LOCATION:Eishalle Haunstetten\, Sportplatzstraße 2\, 86179 Augsburg
 DESCRIPTION:Publikumslauf. Aktuelle Infos und Preise: https://www.augsburg.
  de/freizeit/sport/wintersport/eishalle-haunstetten
